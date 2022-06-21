@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anthony Rondina</h1>
-<h3 align="center">A passionate frontend developer from North Carolina</h3>
+<h1 align="center">Hi, I'm Luke Fleming <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A Full-Stack Software Developer based in Hawaii and NYC</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anthony-rondina&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-rondina" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lukefleming90&label=Profile%20views&color=blueviolet&style=flat" alt="lukefleming90" /> </p>
 
 - 🔭 I’m currently working on [Choose-Your-Own-Adventure](https://ants-choose-your-own-adventure.herokuapp.com/)
 
@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthony-rondina&show_icons=true&locale=en" alt="anthony-rondina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-rondina&" alt="anthony-rondina" /></p>
+
+![](https://hit.yhype.me/github/profile?user_id=42561330)

@@ -22,7 +22,7 @@
       <a href="https://lukefleming90.github.io/Lukes-Coding-Portfolio/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
          alt="luke-fleming" height="30"/></a>
-      <a href="https://mailto:lukefleming90@gmail.com" target="_blank"><img align="center"
+      <a href="mailto:lukefleming90@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="luke-fleming" height="30"/></a>
     </p>
